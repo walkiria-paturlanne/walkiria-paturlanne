@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on perfecting my knowledge about Java, SQL, HTML, CSS, Javascript and NoSQL.
+- 🔭 I’m currently working on perfecting my knowledge in Java, SQL, HTML, CSS, Javascript and NoSQL.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on Software || Web projects that allow me to grow professionally.
 
