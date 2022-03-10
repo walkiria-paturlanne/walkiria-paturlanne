@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on perfecting my knowledge in Java, SQL, HTML, CSS, Javascript and NoSQL.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working on perfecting my knowledge in Java, PLSQL, HTML, CSS and Javascript. 
+- 🌱 I am currently studying Springboot and microservices.
 - 👯 I’m looking to collaborate on Software || Web projects that allow me to grow professionally.
 
 - 💬 Ask me about anything!
